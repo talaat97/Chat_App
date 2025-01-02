@@ -1,4 +1,4 @@
-# Chat app
+# Chat me
 You can send messages with your friends over the Internet and talk to them in groups only by connecting to the Internet and logging in and out through your account to ensure security for every user.💬🗣️✔️
 
 ## apllicatiion view 
